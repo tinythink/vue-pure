@@ -1,2 +1,2 @@
 # vue-pure
-占个坑
+雅虎轻量级UIpure结合vue.js，扩展了一些组件
